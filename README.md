@@ -4,8 +4,6 @@
 ![License](https://img.shields.io/github/license/parkjc/react-scheduler?label=license&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/parkjc/react-scheduler?style=plastic)
 
-<!-- ![snyk](https://img.shields.io/snyk/vulnerabilities/github/parkjc/react-scheduler?style=plastic) -->
-
 ## Introduction
 
 **React Scheduler** is a web-based scheduling app utilizing the NextJS framework and fullcalendar plugin.
