@@ -1,10 +1,10 @@
 # React Scheduler
 
-![GitHub last commit](https://img.shields.io/github/last-commit/parkj009/react-scheduler?logo=Github&style=plastic)
-![License](https://img.shields.io/github/license/parkj009/react-scheduler?label=license&style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/parkj009/react-scheduler?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/parkjc/react-scheduler?logo=Github&style=plastic)
+![License](https://img.shields.io/github/license/parkjc/react-scheduler?label=license&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/parkjc/react-scheduler?style=plastic)
 
-<!-- ![snyk](https://img.shields.io/snyk/vulnerabilities/github/parkj009/react-scheduler?style=plastic) -->
+<!-- ![snyk](https://img.shields.io/snyk/vulnerabilities/github/parkjc/react-scheduler?style=plastic) -->
 
 ## Introduction
 
