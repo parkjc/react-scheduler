@@ -31,7 +31,7 @@ React Scheduler was created to provide a scheduling app that can be customized f
 - NextJS: React Framework
 <!-- - Material UI: React UI Framework -->
 - FullCalendar: Calendar Plugin
-<!-- - (need backend) -->
+- (need backend)
 
 ---
 
