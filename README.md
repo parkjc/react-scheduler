@@ -27,7 +27,7 @@ React Scheduler was created to provide a scheduling app that can be customized f
 
 - ReactJS: JS Library
 - NextJS: React Framework
-<!-- - Material UI: React UI Framework -->
+- Material UI: React UI Framework
 - FullCalendar: Calendar Plugin
 - (need backend)
 
@@ -79,7 +79,7 @@ npm run build: Compiles and minifies assets
 - [ReactJS](https://reactjs.org/)
 - [ESLint](https://eslint.org/)
 - [NextJS](https://nextjs.org/docs/getting-started)
-<!-- - [Material UI](https://mui.com/material-ui/getting-started/overview/) -->
+- [Material UI](https://mui.com/material-ui/getting-started/overview/)
 - [FullCalendar](https://fullcalendar.io/)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html)
 
